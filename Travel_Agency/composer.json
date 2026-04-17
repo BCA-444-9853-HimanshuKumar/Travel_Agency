@@ -1,0 +1,8 @@
+{
+    "name": "travel-agency/project",
+    "description": "Travel Agency Booking System",
+    "require": {
+        "php": ">=7.0",
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
